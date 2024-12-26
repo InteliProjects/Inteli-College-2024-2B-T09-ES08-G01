@@ -1,0 +1,48 @@
+2024-11-16 23:34:36 - INFO - Logger configurado com sucesso.
+2024-11-16 23:36:22 - INFO - Logger configurado com sucesso.
+2024-11-16 23:40:57 - INFO - Logger configurado com sucesso.
+2024-11-17 00:12:44 - INFO - Logger configurado com sucesso.
+2024-11-17 00:14:33 - INFO - Logger configurado com sucesso.
+2024-11-17 00:14:43 - INFO - Logger configurado com sucesso.
+2024-11-17 00:18:56 - INFO - Logger configurado com sucesso.
+2024-11-17 00:18:56 - INFO - Logger configurado com sucesso.
+2024-11-17 00:18:56 - INFO - Logger configurado com sucesso.
+2024-11-17 00:18:56 - INFO - [ACESSO] Timestamp: 2024-11-17 00:18:56, Usuário: usuario1, Documento: login, IP de Origem: documento1
+2024-11-17 00:18:57 - INFO - [ACESSO] Timestamp: 2024-11-17 00:18:57, Usuário: usuario1, Documento: download, IP de Origem: documento2
+2024-11-17 00:18:58 - INFO - [ACESSO] Timestamp: 2024-11-17 00:18:58, Usuário: usuario1, Documento: upload, IP de Origem: documento3
+2024-11-17 00:19:42 - INFO - [ACESSO] Timestamp: 2024-11-17 00:19:42, Usuário: usuario2, Documento: login, IP de Origem: documento1
+2024-11-17 00:19:43 - INFO - [ACESSO] Timestamp: 2024-11-17 00:19:43, Usuário: usuario2, Documento: download, IP de Origem: documento2
+2024-11-17 00:19:44 - INFO - [ACESSO] Timestamp: 2024-11-17 00:19:44, Usuário: usuario2, Documento: upload, IP de Origem: documento3
+2024-11-24 11:07:01 - INFO - Logger configurado com sucesso.
+2024-11-24 11:07:03 - INFO - Logger configurado com sucesso.
+2024-11-24 11:07:03 - INFO - Logger configurado com sucesso.
+2024-11-24 11:07:03 - INFO - [ACESSO] Timestamp: 2024-11-24 11:07:03, Usuário: usuario1, Documento: login, IP de Origem: documento1
+2024-11-24 16:32:38 - INFO - Logger configurado com sucesso.
+2024-11-24 16:32:38 - INFO - Logger configurado com sucesso.
+2024-11-24 16:32:38 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:32:38', 'usuario': 'user123', 'documento': 'doc456', 'ip_origem': 'desconhecido'}
+2024-11-24 16:32:38 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:32:38', 'usuario': 'usuario1', 'documento': 'documento1', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:00 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:33:00', 'usuario': 'usuario1', 'documento': 'documento1', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:21 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:33:21', 'usuario': 'usuario1', 'documento': 'documento1', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:22 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:33:22', 'usuario': 'user123', 'documento': 'doc456', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:43 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:33:43', 'usuario': 'usuario1', 'documento': 'documento2', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:43 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:33:43', 'usuario': 'usuario1', 'documento': 'documento2', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:43 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:33:43', 'usuario': 'usuario1', 'documento': 'documento2', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:44 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:33:44', 'usuario': 'user123', 'documento': 'doc456', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:44 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:33:44', 'usuario': 'usuario1', 'documento': 'documento3', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:44 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:33:44', 'usuario': 'usuario1', 'documento': 'documento3', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:44 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:33:44', 'usuario': 'usuario1', 'documento': 'documento3', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:45 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:33:45', 'usuario': 'user123', 'documento': 'doc456', 'ip_origem': 'desconhecido'}
+2024-11-24 16:33:45 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:33:45', 'usuario': 'usuario2', 'documento': 'documento1', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:07 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:34:07', 'usuario': 'usuario2', 'documento': 'documento1', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:08 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:34:08', 'usuario': 'user123', 'documento': 'doc456', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:29 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:34:29', 'usuario': 'usuario2', 'documento': 'documento2', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:29 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:34:29', 'usuario': 'usuario2', 'documento': 'documento2', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:30 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:34:30', 'usuario': 'user123', 'documento': 'doc456', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:30 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:34:30', 'usuario': 'usuario2', 'documento': 'documento3', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:30 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:34:30', 'usuario': 'usuario2', 'documento': 'documento3', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:31 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:34:31', 'usuario': 'user123', 'documento': 'doc456', 'ip_origem': 'desconhecido'}
+2024-11-24 16:34:31 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:34:31', 'usuario': 'usuario3', 'documento': 'documento1', 'ip_origem': 'desconhecido'}
+2024-11-24 16:35:02 - INFO - Logger configurado com sucesso.
+2024-11-24 16:35:02 - INFO - Logger configurado com sucesso.
+2024-11-24 16:35:02 - INFO - {'tipo': 'ACESSO', 'timestamp': '2024-11-24 16:35:02', 'usuario': 'user123', 'documento': 'doc456', 'ip_origem': 'desconhecido'}
+2024-11-24 16:35:02 - INFO - {'tipo': 'ERRO', 'timestamp': '2024-11-24 16:35:02', 'usuario': 'usuario1', 'documento': 'documento1', 'ip_origem': 'desconhecido'}
